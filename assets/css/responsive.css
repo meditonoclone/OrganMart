@@ -99,6 +99,9 @@
     .item-info.row > div:first-child p:last-child{
         font-size: 2rem;
     }
+    .navbar{
+        margin-bottom: 20px;
+    }
 }
 
 /* Mobile (< 740px) */
